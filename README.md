@@ -5,6 +5,26 @@
 
 ---
 
+```mermaid
+graph TD
+    A[User Voice Input] --> B[Speech-to-Text<br/>Whisper]
+    B --> C[Gemini AI<br/>Conversation Engine]
+    C --> D[Text-to-Speech<br/>eSpeak-NG]
+    C --> E[Session Manager]
+    E --> F[Summarization Engine]
+    F --> G[Transcript Files]
+    D --> H[AI Voice Output]
+    
+    style A fill:#1e3a8a,color:#ffffff
+    style H fill:#1e3a8a,color:#ffffff
+    style C fill:#7e22ce,color:#ffffff
+    style B fill:#ea580c,color:#ffffff
+    style D fill:#ea580c,color:#ffffff
+    style E fill:#15803d,color:#ffffff
+    style F fill:#15803d,color:#ffffff
+    style G fill:#450a0a,color:#ffffff
+```
+
 ## 🚀 Features
 
 - 🎤 **Voice Input:** Speak naturally — your voice is transcribed using OpenAI Whisper.  

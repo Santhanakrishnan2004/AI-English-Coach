@@ -91,6 +91,6 @@ AI-English-Coach/
 🚀 Passionate about human–AI communication and applied machine learning.
 
 [![GitHub](https://img.shields.io/badge/GitHub-@SanthanaKrishnan-black?logo=github)](https://github.com/Santhanakrishnan2004/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://linkedin.com/in/<your-linkedin>](https://www.linkedin.com/in/santhanakrishnan-v/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://www.linkedin.com/in/santhanakrishnan-v/])
 
 

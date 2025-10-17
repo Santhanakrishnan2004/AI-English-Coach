@@ -1,0 +1,6 @@
+google-generativeai
+openai-whisper
+sounddevice
+numpy
+pyaudio
+streamlit
